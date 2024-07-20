@@ -1,15 +1,12 @@
 ### Hi there, I'm Aswin K C 👋
 
-I'm a Python developer with a passion for web development, particularly in Django.
+I'm a Data Analyst with a passion for uncovering insights and driving decision-making through data.
 
-🌱 Currently learning and exploring new technologies in the Python ecosystem.
+🌱 Currently enhancing my skills in data analytics, including time series forecasting and machine learning.
 
-👯 I'm open to collaborating on Django projects and contributing to open-source.
+👯 I'm open to collaborating on data analysis projects and contributing to open-source data initiatives.
 
-💬 Ask me about Django, Python, or anything tech-related!
+💬 Ask me about data analysis, Python, or anything data-related!
 
 📫 Reach me: [Your Email Address](mailto:youremail@example.com)
 
----
-
-Feel free to adjust any part of this draft according to your preferences. Let me know if you'd like any further modifications!
